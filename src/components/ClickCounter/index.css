@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.Clickbutton-background-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #2d3a35;
+  font-weight: bold;
+  padding: 15px;
+}
+
+.desctiption {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #2d3a35;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.button {
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #007bff;
+  background-size: cover;
+  height: 80px;
+  width: 150px;
+  text-align: center;
+  border-radius: 8px;
+  border: 0px solid #007bff;
+}
